@@ -12,7 +12,7 @@ Only try this on a virtual machine that you dont care about as im not responsibl
 
 
 Dependencies 
-
+Python3
 easygui: pip install easygui
 
 Any Linux Distrobution with bash/sh/zsh (idk if any linux distros dont have this but still gonna mention it)
