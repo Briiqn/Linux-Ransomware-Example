@@ -16,3 +16,11 @@ Python3
 easygui: pip install easygui
 
 Any Linux Distrobution with bash/sh/zsh (idk if any linux distros dont have this but still gonna mention it)
+
+
+
+
+To do
+
+
+ping a test server the password via bytes of data
