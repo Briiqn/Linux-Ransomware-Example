@@ -17,10 +17,10 @@ easygui: pip install easygui
 
 Any Linux Distrobution with bash/sh/zsh (idk if any linux distros dont have this but still gonna mention it)
 
-
+____________________________________
 
 
 To do
 
 
-ping a test server the password via bytes of data
+ping a test server the password via bytes of data  & remove the test password folder
